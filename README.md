@@ -1,17 +1,2 @@
-# jay-assistant-app{
-  "name": "jay-assistant-app",
-  "version": "1.0.0",
-  "private": true,
-  "scripts": {
-    "dev": "vite",
-    "build": "vite build",
-    "preview": "vite preview"
-  },
-  "dependencies": {
-    "react": "^18.2.0",
-    "react-dom": "^18.2.0"
-  },
-  "devDependencies": {
-    "vite": "^5.0.0"
-  }
-}
+git clone https://github.com/TON-UTILISATEUR/jay-assistant-app.git
+cd jay-assistant-app
